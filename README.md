@@ -113,8 +113,8 @@ Dalam penerapan *Machine Learning* memiliki kemungkinan *error* atas prediksi ya
 
 | **Tipe error** | **Konsekuensi** |
 | --- | --- |
-| False Positive | Kehilangan biaya *marketing* dan pemborosan waktu. |
-| False Negative | Kehilangan *potensial revenue* |
+| False Positive | Kehilangan biaya *marketing* |
+| False Negative | Kehilangan *potensial profit* |
 
 <br>
 
