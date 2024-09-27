@@ -50,7 +50,7 @@ Sekarang kita masuk kedalam process data cleaning dan data preprocessing, tahap 
 5. Rename Column & Value -> Tujuan mempermudah dalam pembacaan dan penginterpretasian data.
 
 ## Analysis Result
-[Dashboard Link](#https://public.tableau.com/app/profile/gian.habli.maulana/viz/BankMarketingCampaignDashboard_17273603145210/Dashboard)
+Dashboard Link: https://public.tableau.com/app/profile/gian.habli.maulana/viz/BankMarketingCampaignDashboard_17273603145210/Dashboard
 
 <img src="https://github.com/user-attachments/assets/3cbcd883-5888-4429-8505-16e5a566f8f1" width=880/>
 
